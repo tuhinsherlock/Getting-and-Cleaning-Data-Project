@@ -1,8 +1,8 @@
-<h1> Source <h1>
+<h1> Source </h1>
 The data was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The data extraction is not shown in the run_analysis.R file.
 
-<h1>Steps</h1>: 
+<h1>Steps</h1>
 
 1. The files on the training folder and test folder were read along with features and activities. 
 Two separate datasets were merged into one using cbind() and rbind()
